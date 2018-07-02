@@ -1,0 +1,6 @@
+[25-Jun-2018 04:06:39 UTC] PHP Fatal error:  Class 'App\Providers\Schema' not found in /home/transpez/public_html/api/app/Providers/AppServiceProvider.php on line 17
+[25-Jun-2018 04:06:43 UTC] PHP Fatal error:  Class 'App\Providers\Schema' not found in /home/transpez/public_html/api/app/Providers/AppServiceProvider.php on line 17
+[25-Jun-2018 04:30:43 UTC] PHP Fatal error:  Class 'Article' not found in /home/transpez/public_html/api/database/seeds/ArticleTableSeeder.php on line 15
+[25-Jun-2018 04:33:31 UTC] PHP Fatal error:  Class 'Article' not found in /home/transpez/public_html/api/database/seeds/ArticlesTableSeeder.php on line 15
+[02-Jul-2018 04:01:04 UTC] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\PDOSqlite\Driver' not found in /home/transpez/public_html/api/vendor/laravel/framework/src/Illuminate/Database/SQLiteConnection.php on line 49
+[02-Jul-2018 04:04:09 UTC] PHP Fatal error:  Class 'Doctrine\DBAL\Driver\PDOSqlite\Driver' not found in /home/transpez/public_html/api/vendor/laravel/framework/src/Illuminate/Database/SQLiteConnection.php on line 49
